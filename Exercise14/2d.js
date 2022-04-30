@@ -1,0 +1,1 @@
+alert("HELLO! This is an alert window.\nYou can dismiss me by clicking on the OK button");
